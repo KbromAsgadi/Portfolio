@@ -49,7 +49,7 @@ export const projects = [
     ],
     image: '../images/Netflix.jpg',
     github: 'https://github.com/KbromAsgadi/Netflix-clone.git',
-    demo: 'https://netflix-clone-kbrom.vercel.app/',
+    demo: 'https://netflix-clone-demo-kappa.vercel.app/',
   },
   {
     id: 'apple-website-replica',
@@ -64,6 +64,6 @@ export const projects = [
     ],
     image: '../images/Appleweb.jpg',
     github: 'https://github.com/KbromAsgadi/Apple-clone.git',
-    demo: 'https://applereplica-i4pqlrtn7-kbrom.vercel.app/',
+    demo: 'applereplica.vercel.app',
   },
 ];
