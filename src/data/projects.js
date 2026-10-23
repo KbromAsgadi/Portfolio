@@ -64,6 +64,6 @@ export const projects = [
     ],
     image: '../images/Appleweb.jpg',
     github: 'https://github.com/KbromAsgadi/Apple-clone.git',
-    demo: 'applereplica.vercel.app',
+    demo: 'https://applereplica.vercel.app',
   },
 ];
