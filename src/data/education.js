@@ -79,4 +79,13 @@ export const education = [
     detail:
       'Developed multiple web applications through hands-on project-based learning at Evangadi Tech, applying modern frontend and backend technologies to build interactive, responsive, and AI-powered applications.',
   },
+  {
+    id: 'site',
+    kind: 'Experience',
+    title: 'internship in Rigid pavement Highway project',
+    place: 'Defence Construction, Afar', // TODO: company or project names, if you want to show them
+    period: 'Sep 2018 - Feb 2019', // TODO: years
+    detail:
+      'Assisted in rigid pavement highway construction and engineering activities, including site inspections, concrete quality control, pavement thickness and reinforcement checks, reviewing engineering drawings, monitoring construction progress, and ensuring compliance with project specifications and safety standards.',
+  },
 ];

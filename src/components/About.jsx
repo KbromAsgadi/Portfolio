@@ -15,8 +15,8 @@ export default function About() {
           <p>
           With 5 years of experience in site engineering and 2 years of experience as an electromechanical manager, 
           I have developed a strong understanding of construction operations, project coordination, 
-          technical problem-solving, and team management. My transition into full-stack web development expands 
-          my ability to solve complex challenges through technology, building responsive, user-friendly, and data-driven web applications.
+          technical problem-solving, and team management. Being a full-stack web development expands 
+          my ability to solve complex challenges through technology, building responsive, user friendly, and data-driven web applications.
           </p>
           <p>
           My unique strength lies in bridging the gap between engineering, management, and software development. 
@@ -24,7 +24,7 @@ export default function About() {
           that create real value. Whether improving construction workflows, managing technical projects, or developing digital products, 
           my goal is to transform ideas into effective solutions that connect people, processes, and technology.
           </p>
-          <p>I don't just solve problems within one field—I combine knowledge across disciplines to build smarter solutions for real-world challenges.</p>
+          <p>I don't just solve problems within one field, I combine knowledge across disciplines to build smarter solutions for real world challenges.</p>
         </div>
       </div>
     </section>

@@ -49,7 +49,7 @@ export const projects = [
     ],
     image: '../images/Netflix.jpg',
     github: 'https://github.com/KbromAsgadi/Netflix-clone.git',
-    demo: 'https://netflix-clone-demo-kappa.vercel.app/',
+    demo: 'netflix-clone-demo-git-main-kbrom.vercel.app',
   },
   {
     id: 'apple-website-replica',
